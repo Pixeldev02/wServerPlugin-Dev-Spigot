@@ -1,0 +1,4 @@
+name: ${project.artifactId}
+author: ChrxssxDev
+version: ${project.version}
+main: ${project.groupID}.${project.artifactId}.Main
